@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Maven
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
